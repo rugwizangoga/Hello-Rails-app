@@ -123,7 +123,7 @@ Example command:
 
 <!-- AUTHORS -->
 
-###👥 Authors <a name="authors"></a>
+### 👥 Authors <a name="authors"></a>
 
 👤 **IRADUKUNDA Pacific Rugwizangoga**
 
